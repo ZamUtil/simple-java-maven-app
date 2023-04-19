@@ -24,7 +24,7 @@ public class AppTest
     }
     
     @Test
-    public void someTest1()
+    public void testAppMessage1()
     {
         App app = new App();
         assertEquals("Hello World!", app.getMessage());
