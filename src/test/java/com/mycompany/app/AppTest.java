@@ -25,6 +25,6 @@ public class AppTest
      @Test
     public void test2()
     {
-          assertTrue(true);
+          assertTrue(false);
     }
 }
